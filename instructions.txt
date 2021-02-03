@@ -1,0 +1,34 @@
+
+
+Instructions:
+
+If you are new User, Make a Shell Account.
+If you have an account already, then Login Into Your Account and Start writing commands.
+
+This is a Command Line Shell.
+Write Linux Commands in the shell window to execute certain operations.
+You can also execute your own written C programs in this Shell.
+
+Example of Linux Commands that can be executed.
+1) cd --- used to change the current directory in Linux.
+Input Parameters: ./<path>
+Note: "." refers to the currect directory in Linux. ".." takes you to the parent directory.
+
+2) exit --- used to exit from the command line interface.
+
+3) echo --- used to print a string on the shell interface.
+Input Parameters: echo <string>
+
+4) pwd --- prints the current directory
+
+5) mv --- can be used to change the name of a file.
+Input Parameters: <filename> <filename>
+
+6) convert --- command to used to convert images to different formats.
+Input Parameters: <filename.jpg> <filename.png>
+
+7) ls --- used to the contents of a directory.
+
+8) man --- can be used to open a manual page of a Linux Command.
+Input Parameters: man <command>
+Example: man ls
